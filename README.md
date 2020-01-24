@@ -11,9 +11,9 @@ I suggest a CC BY-NC-SA 4.0 license for this data. That is, please explore this 
 
 Items in this repository:
 
-.xlx sheets and .csv files of the ceramic data from Musarna, Populonia, and Cetamura del Chianti
+.xlsx sheets and .csv files of the ceramic data from Musarna, Populonia, and Cetamura del Chianti
 
-.xlx spreadsheet explaining the contents of each column/field
+.xlsx spreadsheet explaining the contents of each column/field
 
 .jpg Screenshot of the filemaker database on which the data was collected
 
