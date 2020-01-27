@@ -13,7 +13,7 @@ Items in this repository:
 
 .xlsx sheets and .csv files of the ceramic data from Musarna, Populonia, and Cetamura del Chianti
 
-.xlsx spreadsheet explaining the contents of each column/field
+.xlsx and .csv spreadsheet explaining the contents of each column/field
 
 .jpg Screenshot of the filemaker database on which the data was collected
 
