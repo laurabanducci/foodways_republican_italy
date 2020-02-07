@@ -9,7 +9,7 @@ This data is in .csv files that are appropriate for Excel, SPSS, or any other st
 
 I suggest a CC BY-NC-SA 4.0 license for this data. That is, please explore this data freely. Please use with attribution for non-commercial purposes. 
 
-<b>This repository</b> <b><i>also</i></b> contains three documents of notes on the results of statistical tests performed on this data. For every type of ceramic ware and every morphological form, the same types of tests were run. Each of the tests as reported are easily able to be matched to the relevant chapter and section of the published book, for the curious specialist reader.
+<b>This repository</b> <b><i>also</i></b> contains three documents of notes on the results of statistical tests performed on this data. For every type of ceramic ware and every morphological form, the same types of tests were run. Each of the tests as reported are easily able to be matched to the relevant chapter and section of the published book, for the curious specialist reader. An explanation of the statistical tests and the decisions behind them can be found in Appendix I of the monograph.
 
 Items in this repository:
 
