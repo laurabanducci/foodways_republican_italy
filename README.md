@@ -5,7 +5,7 @@ Data used in monograph published by the University of Michigan Press
 
 The theory and methods behind this data collection was published in the <i>Journal of Mediterranean Archaeology</i> <a href="http://dx.doi.org/10.1558/jmea.v27i2.187">2014</a> as well as in a short article in Fautores <i>Acta</i> <a href="https://www.fautores.org/pages/contents_acta_1-44.htm#acta43">2014</a>. 
 
-This data is in .csv files that are appropriate for Excel, SPSS, or any other statistical software. Statistical analysis and subsequent interpretation of the data was completed in SPSS for a 2013 dissertation in the Interdepartmental Program in Classical Art and Archaeology at the University of Michigan and for the monograph <i>Foodways in Roman Republican Italy: changing behaviours and identities</i> (University of Michigan Press 2020).
+This data is in .csv files that are appropriate for Excel, SPSS, or any other statistical software. Statistical analysis and subsequent interpretation of the data was completed in SPSS for a 2013 dissertation in the Interdepartmental Program in Classical Art and Archaeology at the University of Michigan and for the monograph <i>Foodways in Roman Republican Italy: changing behaviours and identities</i> (University of Michigan Press 2021).
 
 I suggest a CC BY-NC-SA 4.0 license for this data. That is, please explore this data freely. Please use with attribution for non-commercial purposes. 
 
